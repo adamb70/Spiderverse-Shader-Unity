@@ -5,6 +5,10 @@ using System;
 using UnityEditor.Graphing;
 using UnityEditor.ShaderGraph.Drawing.Controls;
 
+/// <summary>
+/// Based on https://github.com/gilescoope/shader-graph-nodes/tree/master/Nodes/Halftone
+/// </summary>
+
 [Serializable]
 public enum CustomHalftoneMode
 {
